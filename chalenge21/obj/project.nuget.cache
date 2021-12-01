@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w8QqSRaIqu9V7szoHTXAbMoFQoAEYOATc4901ZO/Vm3QytldwQXXal7N/WLdw/rAnsUKTP2bq6MffS9W+gvGcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maconrm180\\source\\repos\\chalenge21\\chalenge21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maconrm180\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
